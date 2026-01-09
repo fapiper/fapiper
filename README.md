@@ -1,6 +1,11 @@
 <p align="center">
   <samp>
-    software engineer & researcher based in berlin
+    <b>hey there</b>
+  </samp>
+</p>
+<p align="center">
+  <samp>
+    i'm a software engineer & researcher based in berlin
   </samp>
 </p>
 <p align="center">
