@@ -1,4 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <samp>
+    <a href="https://fabianpiper.com">me</a> .
+    <a href="https://www.linkedin.com/in/fabian-piper">linkedin</a> .
+    <a href="https://fabianpiper.com">projects</a>
+  </samp>
+</p>
 
 <!--
 **fapiper/fapiper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
