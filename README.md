@@ -5,12 +5,14 @@
 </p>
 <p align="center">
   <samp>
-    i'm a software engineer & researcher based in berlin
+    i'm a software engineer & researcher based in berlin. feel free to reach out, i'd love to connect
   </samp>
 </p>
 <p align="center">
   <samp>
     <a href="https://fabianpiper.com">website</a> ·
+    <a href="https://fabianpiper.com">projects</a> ·
+    <a href="https://fabianpiper.com">publications</a> ·
     <a href="https://www.linkedin.com/in/fabian-piper">linkedin</a> ·
     <a href="mailto:hello@fabianpiper.com">email</a>
   </samp>
