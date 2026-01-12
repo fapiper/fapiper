@@ -1,10 +1,5 @@
 <p align="center">
   <samp>
-    <b>hey there</b>
-  </samp>
-</p>
-<p align="center">
-  <samp>
     i'm a software engineer & researcher based in berlin - feel free to reach out, i'd love to connect
   </samp>
 </p>
