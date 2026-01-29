@@ -6,8 +6,8 @@
 <p align="center">
   <samp>
     <a href="https://fabianpiper.com">Website</a> ·
-    <a href="https://fabianpiper.com">Projects</a> ·
-    <a href="https://fabianpiper.com">Publications</a> ·
+    <a href="https://fabianpiper.com/projects/">Projects</a> ·
+    <a href="https://fabianpiper.com/publications/">Publications</a> ·
     <a href="https://www.linkedin.com/in/fabian-piper">LinkedIn</a> ·
     <a href="mailto:hello@fabianpiper.com">Email</a>
   </samp>
